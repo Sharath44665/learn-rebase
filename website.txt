@@ -1,4 +1,4 @@
-navbar added!
+top navbar added!
 footer added!
 Sign-up form added
 add image gallery
